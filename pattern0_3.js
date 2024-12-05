@@ -5,6 +5,9 @@ function pattren3(str){
         for(let k = 1; k <= str-i ; k++){
         str1 += ' '
 
+
+
+        
         }
        for (let j = 1; j <=i; j++) {
       str1 += '*'
